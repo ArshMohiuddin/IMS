@@ -62,5 +62,6 @@ namespace IMS
             PurchaseInvoice pI = new PurchaseInvoice();
             MainClass.showWindow(pI, this, MDI.ActiveForm);
         }
+        
     }
 }
